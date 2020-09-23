@@ -6,7 +6,7 @@
     "build": "next build",
     "start": "next start",
     "type-check": "tsc",
-    "scss": "tsm pages --aliasPrefixes.~ node_modules/"
+    "scss": "tsm src --aliasPrefixes.~ node_modules/"
   },
   "dependencies": {
     "@zeit/next-sass": "^1.0.1",
