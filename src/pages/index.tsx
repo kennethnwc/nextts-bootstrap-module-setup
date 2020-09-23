@@ -8,7 +8,7 @@ import {
   cardTitle,
   container,
   jumbotron,
-} from "./index.scss";
+} from "./index.module.scss";
 
 const IndexPage = () => (
   <>
